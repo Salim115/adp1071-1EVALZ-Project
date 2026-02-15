@@ -1,0 +1,35 @@
+Circuit: * C:\Users\WINDOWS 10 PRO\Desktop\adp1071 final sim\750316825_transformer_pwm.asc
+
+C35: Increased Cpar to 1e-016
+C2: Increased Cpar to 1e-011
+C50: Increased Cpar to 2.2e-010
+C67: Increased Cpar to 2.2e-010
+C66: Increased Cpar to 1e-010
+C7: Increased Cpar to 1e-011
+C62: Increased Cpar to 2.2e-011
+C58: Increased Cpar to 4.7e-016
+C59: Increased Cpar to 4.7e-016
+C60: Increased Cpar to 4.7e-016
+C1: Increased Cpar to 2.2e-012
+C24: Increased Cpar to 1e-011
+C57: Increased Cpar to 1e-011
+Per .tran options, skipping operating point for transient analysis.
+Heightened Def Con from 0.0461281 to 0.0461281
+
+Date: Sun Feb 15 11:51:26 2026
+Total elapsed time: 215.177 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 38271678
+traniter = 38271678
+tranpoints = 12289338
+accept = 9129778
+rejected = 3159561
+matrix size = 40
+fillins = 12
+solver = Normal
+Matrix Compiler1: 3.61 KB object code size  0.5/0.3/[0.2]
+Matrix Compiler2: 3.53 KB object code size  0.2/0.4/[0.2]
+
